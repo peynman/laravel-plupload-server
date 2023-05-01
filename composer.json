@@ -1,11 +1,7 @@
 {
-    "name": "jildertmiedema/laravel-plupload",
+    "name": "peynman/laravel-plupload-server",
     "description": "Laravel/Plupload - Handle large file uploads",
     "authors": [
-        {
-            "name": "Jildert Miedema",
-            "email": "jildertmiedema@gmail.com"
-        }
     ],
     "keywords": [
         "laravel",
